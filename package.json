@@ -4,9 +4,11 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
+    "build": "your_build_command_here",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Emmanuel Jonathan",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",

@@ -1,0 +1,14 @@
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":8.633,"status":404,"timestamp":"Sun May 12 2024 23:20:04 GMT+0100 (West Africa Standard Time)","url":"/blog/"}
+{"level":"info","message":"The home page was requested"}
+{"contentLength":"18","level":"info","message":"HTTP Access Log","method":"GET","responseTime":8.3,"status":200,"timestamp":"Sun May 12 2024 23:20:36 GMT+0100 (West Africa Standard Time)","url":"/"}
+{"contentLength":"143","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.35,"status":404,"timestamp":"Sun May 12 2024 23:20:44 GMT+0100 (West Africa Standard Time)","url":"/blog"}
+{"contentLength":"143","level":"info","message":"HTTP Access Log","method":"GET","responseTime":0.973,"status":404,"timestamp":"Sun May 12 2024 23:20:46 GMT+0100 (West Africa Standard Time)","url":"/blog"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.906,"status":404,"timestamp":"Sun May 12 2024 23:20:50 GMT+0100 (West Africa Standard Time)","url":"/blogs"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.158,"status":404,"timestamp":"Sun May 12 2024 23:20:50 GMT+0100 (West Africa Standard Time)","url":"/blogs"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":12.603,"status":404,"timestamp":"Sun May 12 2024 23:30:06 GMT+0100 (West Africa Standard Time)","url":"/blogs"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.24,"status":404,"timestamp":"Sun May 12 2024 23:30:08 GMT+0100 (West Africa Standard Time)","url":"/blogs"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.129,"status":404,"timestamp":"Sun May 12 2024 23:30:08 GMT+0100 (West Africa Standard Time)","url":"/blogs"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":0.912,"status":404,"timestamp":"Sun May 12 2024 23:30:09 GMT+0100 (West Africa Standard Time)","url":"/blogs"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":2.367,"status":404,"timestamp":"Sun May 12 2024 23:30:09 GMT+0100 (West Africa Standard Time)","url":"/blogs"}
+{"contentLength":"144","level":"info","message":"HTTP Access Log","method":"GET","responseTime":1.093,"status":404,"timestamp":"Sun May 12 2024 23:30:10 GMT+0100 (West Africa Standard Time)","url":"/blogs"}
+{"level":"info","message":"Fetched blogs successfully"}

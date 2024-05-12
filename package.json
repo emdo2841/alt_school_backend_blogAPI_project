@@ -1,0 +1,31 @@
+{
+  "name": "blog_alt_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.17.2",
+    "install": "^0.13.0",
+    "joi": "^17.13.1",
+    "jsonwebtoken": "^9.0.2",
+    "logger": "^0.0.1",
+    "mongoose": "^8.3.4",
+    "morgan": "^1.10.0",
+    "morgan-json": "^1.1.0",
+    "nodemon": "^3.1.0",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^7.0.0",
+    "winston": "^3.13.0"
+  }
+}

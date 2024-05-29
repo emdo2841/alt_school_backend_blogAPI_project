@@ -134,7 +134,7 @@ blogRoute.get('/:tag', async (req, res) => {
   }
 });
 
-blogRoute.post("/", blogValidation, passport.authenticate('jwt', { session: false }), (req, res) => {
+blogRoute.post("/newblog ", blogValidation, passport.authenticate('jwt', { session: false }), (req, res) => {
   const blog = req.body;
   // Set the time created to current date
   blog.timestamp = new Date();

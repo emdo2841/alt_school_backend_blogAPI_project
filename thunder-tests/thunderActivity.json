@@ -4,11 +4,11 @@
         "colId": "history",
         "containerId": "",
         "name": "http://127.0.0.1:3000/blog/",
-        "url": "http://127.0.0.1:3000/blog",
+        "url": "http://127.0.0.1:3000/blog/663f8d3c0d96f6fcea7d39ae",
         "method": "GET",
         "sortNum": 0,
         "created": "2024-05-12T20:31:49.275Z",
-        "modified": "2024-05-12T22:30:29.896Z",
+        "modified": "2024-05-22T20:23:03.907Z",
         "headers": [
             {
                 "name": "Accept",

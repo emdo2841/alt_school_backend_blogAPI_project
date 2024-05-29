@@ -73,7 +73,7 @@ passport.use(
                     return done(null, false, { message: 'Wrong Password' });
                 }
                 // Generate JWT token
-                const token = jwt.sign({ userId: user._id }, 'your_secret_key', { expiresIn: '1h' });
+                const token = jwt.sign({ userId: user._id }, '423erw,.fhrhiidu8477u47rhhfw', { expiresIn: '1h' });
                 
                 return done(null, user, { message: 'Logged in Successfully' });
             } catch (error) {
